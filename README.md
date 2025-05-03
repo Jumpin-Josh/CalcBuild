@@ -2,11 +2,11 @@
 I wanted to learn how to solder and design PCBs for some time and creating this calculator was a great opportunity to do so while also working on my CAD skills. This repository is here to have all my files and some pictures all in one place for easy access.
 
 ### Early Circuit Design
-This is a numberpad I set up on a breadboard to test my code through out the whole process of making the calculator.
+This is a numberpad I set up on a breadboard to test my code through out the whole process of making the calculator. LCD uses the I2C protocol, I used libraries from a different github user to get it working properly.
 ![Image](./Images/IMG_7333.jpg)
  
 ### Schematic and PCB Design
-After setting up the numberpad i got the general idea of how to set up the circuit so made a schematic.
+After setting up the numberpad I got the general idea of how to set up the circuit so made a schematic.
 ![Image](./Images/image.png)
 
 Final design of the PCB. Both the schematic and PCB were designed in Altium CircutMaker.
