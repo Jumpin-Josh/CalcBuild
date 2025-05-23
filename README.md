@@ -17,10 +17,10 @@ Final design of the PCB. Both the schematic and PCB were designed in Altium Circ
 ![Image](./Images/IMG_7431.jpg)
 
 ### Case Model and Final Product
-I directly exported the PCB and components from Altium into Fusion 360 to design the case.
+I directly exported the PCB and components from Altium into Fusion 360 to design the case. The top and bottom of the case wedge together but can be seperated using a flathead screw driver to pry open.
 ![Image](./Images/CaseModel.png)
 
 The calculator is powered by a AA battery pack behind the PCB that plugs into the Raspberry Pi Pico.
 ![Image](./Images/FullCalculator.jpg)
 
-Really enjoyed working on this project! In the future I might try using a different microcontroller to reduce the size of the PCB and case since the battery pack is why the case is so thick. CAD, PCB and code files can be found above (code isnt the best but it gets the job done).
+Really enjoyed working on this project! In the future I might try using a different microcontroller and solder on a power source to reduce the size of the PCB and case since the battery pack is why the case is so thick (ill also move the board standoffs to the backside of the case). CAD, PCB and code files can be found above (code isnt the best but it gets the job done).
